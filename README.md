@@ -7,3 +7,7 @@ INSTRUCTIONS:
 1) run main.py
 2) input value of nitro.token
 3) get ez nitro
+
+
+
+## this is open source ##
