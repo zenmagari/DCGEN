@@ -1,7 +1,7 @@
 import requests, os, ctypes; ctypes.windll.kernel32.SetConsoleTitleW(f"DCGEN")
 
 url = "https://api.discord.gx.games/v1/direct-fulfillment"
-billurl = "https://discord.com/billing/partner-promotions/1180231712274387115/"
+billurl = "https://discord.com/billing/partner-promotions/1180231712274387115"
 
 payload = {"partnerUserId": "21b3bb0e1c0612e6d59b71212e463f2b0c1585120e9431fae57554ddc834148c"}
 headers = {
@@ -56,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
